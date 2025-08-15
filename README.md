@@ -1,21 +1,53 @@
-<!-- ====================== HEADER ====================== -->
 <div align="center">
-  <h1>Hi, I'm <span style="color:#f7a51d">Arunkumar R</span> 👋</h1>
-  <p><em>Full Stack Developer | Crafting Modern Web Applications</em></p>
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
+</div>
 
-  <!-- Typing Animation -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=500&color=F7A51D&center=true&vCenter=true&width=500&lines=HTML+%7C+CSS+%7C+JavaScript;ReactJS+%7C+Node.js;Bootstrap+%7C+TailwindCSS;SQL+%7C+AJAX+%7C+jQuery" />
+<h1 align="center">Hey 👋 What's Up? I'm Arun Kumar R</h1>
+<h3 align="center">🚀 Full Stack Developer</h3>
+
+---
+
+### 💻 **Skills**
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html,css" height="50" alt="HTML CSS" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=bootstrap,tailwind" height="50" alt="CSS Frameworks" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=js,react" height="50" alt="JavaScript React" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=jquery,ajax" height="50" alt="jQuery AJAX" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nodejs,php" height="50" alt="Backend Tech" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="50" alt="MySQL" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=python" height="50" alt="Python" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=vscode,git,github" height="45" alt="Development Tools" />
 </div>
 
 ---
 
-## 🚀 About Me
-```javascript
-const arunkumar = {
-  role: "Full Stack Developer",
-  techStack: ["HTML", "CSS", "JavaScript", "ReactJS", "Node.js", "SQL", "jQuery"],
-  design: ["Bootstrap", "TailwindCSS"],
-  passion: "Creating user-focused, scalable, and efficient web apps",
-  currentlyLearning: "Next.js",
-  funFact: "I debug faster with coffee ☕"
-};
+### 🌐 **Connect With Me**
+<div align="center">
+  <a href="https://www.linkedin.com/in/arunkumar0619" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="30" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/ArunRaja1906" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="30" alt="GitHub" />
+  </a>
+  <a href="https://instagram.com/im_arunraja" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="30" alt="Instagram" />
+  </a>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ArunRaja1906&show_icons=true&theme=radical" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ArunRaja1906&theme=radical" height="165" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArunRaja1906&layout=compact&theme=radical" height="150" />
+</div>
+
+
