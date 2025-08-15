@@ -40,14 +40,3 @@
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="30" alt="Instagram" />
   </a>
 </div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ArunRaja1906&show_icons=true&theme=radical" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ArunRaja1906&theme=radical" height="165" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArunRaja1906&layout=compact&theme=radical" height="150" />
-</div>
-
-
